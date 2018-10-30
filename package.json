@@ -1,0 +1,18 @@
+{
+  "name": "h1b_statistics-stef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --outDir src"
+  },
+  "author": "Stefanie Seah",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.12.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.3"
+  },
+  "dependencies": {}
+}
